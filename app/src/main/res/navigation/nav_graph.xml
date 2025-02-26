@@ -8,7 +8,7 @@
     <fragment
         android:id="@+id/FirstFragment"
         android:name="com.example.todolist.FirstFragment"
-        android:label="@string/first_fragment_label"
+        android:label="@string/my_tasks_label"
         tools:layout="@layout/fragment_first">
 
         <action
